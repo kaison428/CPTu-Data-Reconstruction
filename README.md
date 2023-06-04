@@ -29,7 +29,3 @@ The model was tested and compared to the baseline for all measurement types at a
 
 The proposed CPTu data imputation method based on an ensemble convolutional autoencoder can reduce the number of tests required and improve the soil profiling accuracy in case of missing data.
 
-## References
-
-The document includes several references for further reading and understanding.
-
